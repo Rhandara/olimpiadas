@@ -1,4 +1,4 @@
-##  Busca de Atletas: Seu Portal para o Esporte! 
+##  Desvendando Atletas - Imersão Dev com Gemini
 
 **O que faz essa aplicação?**
 
